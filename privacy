@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Privacy Policy - Hinário Umbundu</title>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;700&display=swap');
+      body {
+        font-family: 'Rubik', sans-serif;
+        line-height: 1.6;
+        margin: 40px;
+        padding: 20px;
+        max-width: 800px;
+        margin: auto;
+      }
+      h1,
+      h2 {
+        color: #333;
+      }
+      a {
+        color: #007bff;
+        text-decoration: none;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Privacy Policy for Hinário Umbundu App</h1>
+    <p><strong>Effective Date: </strong>2025-03-11</p>
+
+    <h2>1. Introduction</h2>
+    <p>
+      At Hinário Umbundu, one of our main priorities is the privacy of our
+      users. This Privacy Policy explains how we collect, use, and protect your
+      information when you use our app.
+    </p>
+
+    <h2>2. Information We Collect</h2>
+    <p>
+      When you use Hinário Umbundu, we may collect the following information:
+    </p>
+    <ul>
+      <li>
+        <strong>Account Information:</strong> Users can create an account using
+        email and password or through third-party authentication providers such
+        as Google, Facebook, and Apple. We collect necessary authentication
+        details, including usernames, email addresses, and profile photos (when
+        available), to manage user accounts.
+      </li>
+      <li>
+        <strong>User-Generated Content:</strong> Any data that users generate
+        within the app, including comments on hymns, reactions, and other
+        content users create.
+      </li>
+      <li>
+        <strong>Account Preferences:</strong> Your settings and preferences.
+      </li>
+      <li>
+        <strong>Location Data:</strong> Access to your device’s location for
+        location-based advertisements and app improvements.
+      </li>
+      <li>
+        <strong>Usage Data & Analytics:</strong> Collected through Firebase
+        Analytics and Facebook Analytics to analyze app interactions and
+        performance.
+      </li>
+    </ul>
+
+    <h2>3. How We Use Your Information</h2>
+    <p>The collected information is used for:</p>
+    <ul>
+      <li>
+        Enabling user authentication and login via email/password or third-party
+        providers (Google, Facebook, Apple).
+      </li>
+      <li>Allowing users to generate and interact with content.</li>
+      <li>Providing location-based advertisements.</li>
+      <li>Analyzing app performance and user engagement.</li>
+      <li>Maintaining and improving the app's functionality.</li>
+    </ul>
+
+    <h2>4. Data Storage & Security</h2>
+    <p>
+      All collected data is securely stored in Firebase, which follows
+      industry-standard security measures to protect your information.
+    </p>
+
+    <h2>5. Children’s Privacy</h2>
+    <p>
+      Hinário Umbundu is child-friendly. We do not knowingly collect personal
+      information beyond necessary login and user-generated content. If a parent
+      believes their child has provided additional personal data, they may
+      contact us for deletion.
+    </p>
+
+    <h2>6. Account Deletion</h2>
+    <p>Users can delete their accounts at any time. Upon deletion:</p>
+    <ul>
+      <li>
+        All personal data, including login credentials, profile photos, and
+        user-generated content, will be permanently removed.
+      </li>
+      <li>This process is irreversible.</li>
+    </ul>
+    <p>
+      To delete your account, visit the account settings in the app or contact
+      support at <a href="mailto:support@hinarioumbundu.com">support@hinarioumbundu.com</a>.
+    </p>
+
+    <h2>7. Third-Party Services & Advertising</h2>
+    <p>
+      Hinário Umbundu uses third-party services like Firebase for functionality
+      and advertising partners for personalized ads based on location. Users can
+      disable location tracking in their device settings.
+    </p>
+
+    <h2>8. Analytics & Tracking</h2>
+    <p>
+      We use Firebase Analytics and Facebook Analytics to track user
+      interactions, including:
+    </p>
+    <ul>
+      <li>Pages and features accessed.</li>
+      <li>Session duration.</li>
+      <li>Device information (e.g., model, OS).</li>
+      <li>General location (not precise GPS tracking).</li>
+    </ul>
+    <p>
+      This data helps us improve the app experience. Users can manage analytics
+      preferences in their device settings.
+    </p>
+
+    <h2>9. Changes to This Policy</h2>
+    <p>
+      We may update this Privacy Policy periodically. Changes will be posted
+      within the app, and we encourage users to review them.
+    </p>
+
+    <h2>10. Contact Us</h2>
+    <p>If you have any questions or concerns, please contact us at:</p>
+    <p><strong><a href="mailto:support@hinarioumbundu.com">support@hinarioumbundu.com</a></strong></p>
+  </body>
+</html>
